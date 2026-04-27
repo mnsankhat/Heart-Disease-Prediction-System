@@ -32,3 +32,32 @@ A Machine Learning-based healthcare application that predicts the risk of heart 
 ---
 
 ## 📂 Project Structure
+
+
+
+---
+
+## ⚙️ How It Works
+
+1. User inputs:
+   - Age, Blood Pressure, Cholesterol
+   - Heart Rate, ECG results
+   - Chest pain type, exercise angina
+
+2. Data processing:
+   - One-hot encoding of categorical features
+   - Missing columns handled
+   - Feature scaling applied
+
+3. Model prediction:
+   - High Risk ⚠️
+   - Low Risk ✅
+
+---
+
+## ▶️ Run Locally
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/mnsankhat/Heart-Disease-Prediction-System
+cd heart-disease-prediction
