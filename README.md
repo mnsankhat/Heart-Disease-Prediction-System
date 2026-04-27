@@ -59,5 +59,5 @@ A Machine Learning-based healthcare application that predicts the risk of heart 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mnsankhat/Heart-Disease-Prediction-System
+git clone https://github.com/maheshsankhat/Heart-Disease-Prediction-System
 cd heart-disease-prediction
